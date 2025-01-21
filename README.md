@@ -12,7 +12,7 @@ Soy un desarrollador apasionado por el software y la creación de aplicaciones q
 ## 🚀 Habilidades  
 
 - **Desarrollo Web y Móvil**:  
-  React, Vue, Node.js, Tailwind, Java, PHP, Kotlin, Laravel, Docker, SQL.  
+  React, Angular, Node.js, Tailwind, Java, PHP, Kotlin, Laravel, Docker, SQL.  
 - **Desarrollo de Videojuegos**:  
   C#, Unity, Godot, Blender.  
 - **Herramientas**:  
